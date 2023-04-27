@@ -21,3 +21,19 @@
 .border {
     border: 4px solid darkblue;
 }
+
+.card-title-font-sizing1 {
+    font-size: 14px;
+}
+
+.card-text-font-sizing1 {
+    font-size: 8.5px;
+}
+
+.card-title-font-sizing2 {
+    font-size: 19px;
+}
+
+.card-text-font-sizing2 {
+    font-size: 13px;
+}
