@@ -37,3 +37,10 @@
 .card-text-font-sizing2 {
     font-size: 13px;
 }
+
+body {
+    background-image: url('https://www.state.gov/wp-content/uploads/2019/03/shutterstock_79476640-1024x683.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
