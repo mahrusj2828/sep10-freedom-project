@@ -23,7 +23,7 @@
 }
 
 .card-title-font-sizing1 {
-    font-size: 14px;
+    font-size: 10px;
 }
 
 .card-text-font-sizing1 {
@@ -35,7 +35,7 @@
 }
 
 .card-text-font-sizing2 {
-    font-size: 13px;
+    font-size: 10px;
 }
 
 body {
@@ -43,4 +43,48 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.padding-top {
+    padding-top: 20px;
+}
+
+.other-text-spacing {
+    font-size: 15px;
+}
+
+.white-coloring {
+    color: white;
+    text-align: center;
+}
+
+.title-coloring {
+    color: darkblue;
+}
+
+.sea-blue-text {
+    color: 	#191970;
+    text-align: center;
+}
+
+.medium-blue-text {
+    color: #0047AB;
+    text-align: center;
+}
+
+.dark-blue-text {
+    color: #000080;
+    text-align: center;
+}
+
+.card-link-sizing {
+    font-size: 15px;
+}
+
+.certain-link-sizing {
+    font-size: 13px;
+}
+
+.card-text-font-sizing3 {
+    font-size: 7px;
 }
