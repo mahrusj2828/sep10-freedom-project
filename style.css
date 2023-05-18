@@ -62,18 +62,8 @@ body {
     color: darkblue;
 }
 
-.sea-blue-text {
-    color: 	#191970;
-    text-align: center;
-}
-
-.medium-blue-text {
-    color: #0047AB;
-    text-align: center;
-}
-
 .dark-blue-text {
-    color: #000080;
+    color: #0818A8;
     text-align: center;
 }
 
@@ -88,3 +78,19 @@ body {
 .card-text-font-sizing3 {
     font-size: 7px;
 }
+
+.text-padding {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.hardware-text-size {
+    font-size: 10px;
+}
+
+.white-title-color {
+    color: white;
+    text-align: center;
+}
+
+
