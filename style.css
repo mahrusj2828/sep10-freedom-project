@@ -76,7 +76,7 @@ body {
 }
 
 .card-text-font-sizing3 {
-    font-size: 7px;
+    font-size: 9px;
 }
 
 .text-padding {
@@ -93,4 +93,6 @@ body {
     text-align: center;
 }
 
-
+.other-font-size {
+    font-size: 19px;
+}
